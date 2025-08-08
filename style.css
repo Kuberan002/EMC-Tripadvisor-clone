@@ -445,3 +445,103 @@ body {
     background-color: transparent;
     color: white;
 }
+.footer{
+    display: flex;
+    margin-top: 90px;
+    gap: 50px;
+
+}
+.footer .footer__c1  ul li {
+    list-style: none;
+}
+.footer .footer__c2  ul li {
+    list-style: none;
+}
+.footer .footer__c3  ul li {
+    list-style: none;
+}
+.footer .footer__c4  ul li {
+    list-style: none;
+}
+.footer__c1 h5{
+    padding-bottom: 7px;
+}
+.footer__c2 h5{
+    padding-bottom: 7px;
+}
+.footer__c3 h5{
+    padding-bottom: 7px;
+}
+.footer__c4 h5{
+    padding-bottom: 7px;
+}
+.footer__c3{
+    padding-left: 100px;
+}
+.footer__c2 ul .custom-padding{
+    padding-top: 14px;
+}
+
+.footer-two {
+  background-color: #f8f8f8;
+  padding: 40px 20px;
+  color: #333;
+  border-top: 1px solid #ddd;
+}
+
+.footer-two__s1 h6 {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.footer-two__s2,
+.footer-two__s2__1 {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 40px;
+}
+
+.footer-two__s2 ul,
+.footer-two__s2__1 ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-two__s2 li,
+.footer-two__s2__1 li {
+  font-size: 13px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  color:black;
+}
+
+.footer-two__s2 li:hover,
+.footer-two__s2__1 li:hover {
+  text-decoration: underline;
+}
+.footer-two__s2__2 {
+  margin-top: 20px;
+}
+
+.footer-two__s2__2 button {
+  margin-right: 10px;
+  padding: 6px 12px;
+  font-size: 13px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.footer-two__s2__2 button:hover {
+  background-color: #e6e6e6;
+}
+
+/* Section 4: Disclaimer */
+.footer__s3 {
+  margin-top: 30px;
+  font-size: 12px;
+  color: #666;
+}
+
+.footer__s3 p {
+  margin-bottom: 10px;
+}
